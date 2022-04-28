@@ -5,4 +5,6 @@ print("This is my first")
 
 x = 5/3
 
-print("this is a variable {}".format(x))
+print("this is a variable {}")
+
+print("addition")
